@@ -1,2 +1,2 @@
-# This is Week02 Assignment02
+# This is Week02 class Assignment02
 ## What is digital compositing?

@@ -104,4 +104,6 @@ HSB 모델을 HLS, 즉 색상-명도-채도 모델이라고도 한다.
 (3) b*: 색도 다이어그램으로 ＋b*는 노랑, -b*는 파랑 방향을 나타낸다.
 
 
+![Lab](https://user-images.githubusercontent.com/70870803/93602352-7a2c7f00-f9fd-11ea-8dd3-a1d39b588011.jpg)
 
+   <그림7> Lab 색공간

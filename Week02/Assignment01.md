@@ -130,4 +130,4 @@ A화면이 가지는 알파 채널의 흰색 부분은 A의 이미지가 나타�
 
 #### Who made it?
 
-Ed Catmull와 Alvy Ray Smith가 1970년대에 New York Tech에서 Alpha의 개념이 발명되었다.
+Ed Catmull와 Alvy Ray Smith가 1970년대에 New York Tech에서 Alpha의 개념을 발명했다.

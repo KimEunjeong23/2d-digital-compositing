@@ -12,10 +12,12 @@
 ![색상환](https://user-images.githubusercontent.com/70870803/93597174-96c4b900-f9f5-11ea-9cd4-d74f6c591064.jpg)
   <이미지1> 먼셀의 색상환
 
+
 2. 채도(Saturation)- 색의 순수하고 선명한 정도. 채도가 높을수록 눈에 띈다. 
 
 ![채도](https://user-images.githubusercontent.com/70870803/93597431-033fb800-f9f6-11ea-99c6-b03f7e9c3ce4.JPG)
   <이미지2> 채도의 예시
+
 
 3. 명도(Value)- 색의 밝고 어두운 정도. 명도가 ‘어둡다, 밝다’로 표현이 가능하다. 
 

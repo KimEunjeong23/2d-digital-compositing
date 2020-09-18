@@ -130,6 +130,9 @@ HSB 모델을 HLS, 즉 색상-명도-채도 모델이라고도 한다. <sup>6)</
 예를 들어, 알파 채널이 가진 이미지를 A, 합성될 화면을 B라고 하고, 
 A화면이 가지는 알파 채널의 흰색 부분은 A의 이미지가 나타나고 검은 부분은 투명하게 되어 뒤 배경에 해당하는 B의 이미지가 나타나게 된다. <sup>8)</sup>
 
+straight alpha.(unassociated) 
+premultiplied alpha.(associated)
+
 #### Who made it?
 
 Ed Catmull와 Alvy Ray Smith가 1970년대에 New York Tech에서 Alpha의 개념을 발명했다.

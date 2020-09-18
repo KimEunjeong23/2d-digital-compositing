@@ -7,4 +7,4 @@
 
 ### digital compositing의 종류와 예시
 
-### digital compositing의 역사 
+### digital compositing의  역사 

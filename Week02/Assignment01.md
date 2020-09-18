@@ -138,3 +138,9 @@ premultiplied alpha.(associated)
 
 Ed Catmull와 Alvy Ray Smith가 1970년대에 New York Tech에서 Alpha의 개념을 발명했다.
 1984년에 Thomas Porter와 Tom Duff에 의해 완전히 발명되었다.
+
+
+#### 출처
+<sup>1)</sup> <국내단행본> 양소영 외 8명, 음악미술 개념사전, 2010. 7. 12.
+              <인터넷 자료> https://www.youtube.com/watch?v=0DXZvcfPVrk
+

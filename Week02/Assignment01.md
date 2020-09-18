@@ -1,5 +1,5 @@
 # This is Week02 class Assignment 01
-## What is Alpha and color (digital color)?
+## What is color & digital color?
 ### 색의 정의와 종류
 
 #### What is color?
@@ -116,8 +116,10 @@ HSB 모델을 HLS, 즉 색상-명도-채도 모델이라고도 한다. <sup>6)</
    <그림7> Lab 색공간
    
    
-### What is Alpha?
+## What is Alpha?
 
+### 알파채널의 뜻과 유래
+#### What is Alpha?
 이미지의 특정 영역을 가리거나(마스크) 제어하는 특수한 채널이다. 
 일반적인 화면은 3개의 채널로 구성되는데 R(red), G(green), B(blue)의 3개의 빛을 합성하여 이미지를 만든다. 
 이 3개의 채널 외 4번째 채널을 알파 채널이라고 하는데 다른 이미지와 합성하는 채널로 흑, 백으로 되어있다. 

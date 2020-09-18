@@ -49,6 +49,12 @@
 
 About RGB
 
+![RGB](https://user-images.githubusercontent.com/70870803/93599723-8b738c80-f9f9-11ea-8f9a-01ddfc2d1a86.JPG)
+
+<그림4> RGB
+
+
+
 빨간색(R), 초록색(G), 파란색(B)을 모두 섞으면 – 흰색 (가산혼합) 
 세 가지 색 중 아무 색도 비추지 않으면 – 검은색
 

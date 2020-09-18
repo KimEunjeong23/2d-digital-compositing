@@ -174,3 +174,12 @@ Ed Catmull와 Alvy Ray Smith가 1970년대에 New York Tech에서 Alpha의 개�
 <sup>8)</sup> 
               
               <국내단행본> 김일태 외 4명, 만화애니메이션사전, 2008. 12. 30.
+              
+#### 이미지 출처
+
+              <그림1> http://art-design-glossary.musabi.ac.jp/hue-circle/
+              <그림2> https://blog.naver.com/differentn/80129513141
+              <그림3> 박연선, 색채용어사전, 국립국어원,  2007.
+              <그림4> https://www.youtube.com/watch?v=T0jzClmP2pc
+              <그림5> <그림6> https://www.shutterstock.com/ko/image-vector/rgb-cmyk-color-mixing-vector-diagram-1090078490
+              <그림7> https://terms.naver.com/entry.nhn?docId=271068&cid=42641&categoryId=42641

@@ -17,7 +17,7 @@
 
 ![green screen](https://user-images.githubusercontent.com/70870803/93669262-f1c9df00-facd-11ea-98b2-0c1901221c08.JPG)
     
-   <그림1> green screen의 모습
+###### <그림1> green screen의 모습
 
 2. 매트 페인팅 matte painting
 

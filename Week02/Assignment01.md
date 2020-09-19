@@ -11,7 +11,7 @@
 
 ![색상환](https://user-images.githubusercontent.com/70870803/93597174-96c4b900-f9f5-11ea-9cd4-d74f6c591064.jpg)
   
-  <그림1> 먼셀의 색상환
+######  <그림1> 먼셀의 색상환
 
 
 
@@ -20,7 +20,7 @@
 
 ![채도](https://user-images.githubusercontent.com/70870803/93597431-033fb800-f9f6-11ea-99c6-b03f7e9c3ce4.JPG)
   
-  <그림2> 채도의 예시
+######  <그림2> 채도의 예시
 
 
 
@@ -29,7 +29,7 @@
 
 ![명도](https://user-images.githubusercontent.com/70870803/93597440-05a21200-f9f6-11ea-9bba-85f23f4f4e90.JPG)
   
-  <그림3> 명도의 예시
+######  <그림3> 명도의 예시
 
 
 
@@ -42,7 +42,7 @@
 
 ![RGB](https://user-images.githubusercontent.com/70870803/93599723-8b738c80-f9f9-11ea-8f9a-01ddfc2d1a86.JPG)
 
-   <그림4> 모니터를 확대해보면.
+######   <그림4> 모니터를 확대해보면.
 
 
 #### Many types of explain color
@@ -58,7 +58,7 @@ About RGB
 
 ![RGB_](https://user-images.githubusercontent.com/70870803/93600689-ff626480-f9fa-11ea-9509-2b2009a665cb.JPG)
 
-   <그림5> RGB
+######   <그림5> RGB
 
 
 예시)
@@ -69,7 +69,7 @@ About RGB
 | RGB(0,255,0)     | 초록색                       |
 | RGB(0,0,255)     | 파란색                       |
       
-   <표1> RGB 색 예시      
+######   <표1> RGB 색 예시      
       
 모니터의 화면은 화소라고 불리는 아주 작은 사각형이 여러 개 모여서 만들어진 것이다. 
 각 화소는 빨간색, 녹색, 파란색 세 가지의 조합으로 만들어진다.
@@ -82,7 +82,7 @@ C(시안), M(마젠타), Y(노랑), K(검정)의 4색을 조합해서 정의한 
 
 ![CMYK](https://user-images.githubusercontent.com/70870803/93600697-01c4be80-f9fb-11ea-9672-d1fb446e2e60.JPG)
 
-   <그림6> CMYK
+######   <그림6> CMYK
    
 
 3. H/S/B
@@ -113,7 +113,7 @@ HSB 모델을 HLS, 즉 색상-명도-채도 모델이라고도 한다. <sup>6)</
 
 ![Lab](https://user-images.githubusercontent.com/70870803/93602352-7a2c7f00-f9fd-11ea-8dd3-a1d39b588011.jpg)
 
-   <그림7> Lab 색공간
+######   <그림7> Lab 색공간
    
    
 ## What is Alpha?

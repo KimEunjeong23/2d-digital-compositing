@@ -31,7 +31,7 @@
 ![매트페인팅1](https://user-images.githubusercontent.com/70870803/93669265-fd1d0a80-facd-11ea-9e18-2032bc16f9be.JPG)
 ![매트페인팅2](https://user-images.githubusercontent.com/70870803/93669266-fee6ce00-facd-11ea-83b4-22285b93a2ea.JPG)
 
-   <그림2> <그림3> 매트페인팅의 예시
+   <그림2> <그림3> 매트페인팅의 예시 Raiders Of The Lost Ark (1981)
 
 3. 로토스코핑 roto scoping
 

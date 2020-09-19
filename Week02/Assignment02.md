@@ -93,8 +93,12 @@
     <인터넷자료> https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/
  
  
- #### 그림 출처
+ #### 이미지 출처
  
- <그림1>
-
+    <그림1> https://www.youtube.com/watch?v=6Aeko7mYAV4
+    <그림2> <그림3> http://www.toolbox-studio.com/blog/10-great-matte-paintings-that-have-changed-the-way-we-see-movies/
+    <그림4> https://www.youtube.com/watch?v=RzsdqsiJQ6Y&feature=emb_title
+    <그림5> <그림6> https://www.youtube.com/watch?v=RzsdqsiJQ6Y&feature=emb_title
+    <그림7> <그림8> https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/
+ 
     

@@ -46,7 +46,8 @@
     멜리에스 Melies 의 Four heads are better than one
     matte와 다중노출을 이용함.   
   ![멜리에스](https://user-images.githubusercontent.com/70870803/93669493-a4e70800-facf-11ea-83e4-77aa451f8710.JPG)
-   <그림4>  
+
+<그림4> Melies의 Four heads are better than one (1898)  
   
     -1910년대 
     glass matte painting
@@ -75,4 +76,5 @@
     -1990
     color difference matte
 ![color difference matte](https://user-images.githubusercontent.com/70870803/93669502-aca6ac80-facf-11ea-81c4-c167a82b1904.JPG)
+
 <그림8> color difference matte

@@ -77,10 +77,20 @@
 
 
   <sup>1)</sup>
+     
     <국내단행본> 김일태 외 4명, 만화애니메이션사전, 2008. 12. 30.
 
-  <sup>2)</sup>
-    <>
+ <sup>2)</sup>
+     
+    <국내단행본> 영화사전, propaganda, 2004. 9. 30.
 
-    
+ <sup>3)</sup> <sup>4)</sup>
+ 
+    <국내단행본> 류재형, 명화를 만든 10가지 시각효과, 2015. 5. 20.
+ 
+ <sup>5)</sup>
+  
+    <인터넷자료> 
+https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/
+
     

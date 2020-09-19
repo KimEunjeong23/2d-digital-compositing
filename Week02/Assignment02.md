@@ -29,7 +29,6 @@
 
 ![매트페인팅1](https://user-images.githubusercontent.com/70870803/93669265-fd1d0a80-facd-11ea-9e18-2032bc16f9be.JPG)
 ![매트페인팅2](https://user-images.githubusercontent.com/70870803/93669266-fee6ce00-facd-11ea-83b4-22285b93a2ea.JPG)
-
 ###### <그림2> <그림3> 매트페인팅의 예시 Raiders Of The Lost Ark (1981)
 
 3. 로토스코핑 roto scoping
@@ -45,7 +44,6 @@
     멜리에스 Melies 의 Four heads are better than one
     matte와 다중노출을 이용함.   
   ![멜리에스](https://user-images.githubusercontent.com/70870803/93669493-a4e70800-facf-11ea-83e4-77aa451f8710.JPG)
-
 ###### <그림4> Melies의 Four heads are better than one (1898)  
   
     -1910년대 
@@ -58,7 +56,6 @@
     Frank Williams에 의해 창안됨.
 ![1918 -1](https://user-images.githubusercontent.com/70870803/93669496-a7e1f880-facf-11ea-8dd0-2b770c19ed7e.JPG)
 ![1918-2](https://user-images.githubusercontent.com/70870803/93669499-a9132580-facf-11ea-9093-b48b25c1d1c7.JPG)
-
 ###### <그림5><그림6> Black back matte를 사용한 영화, sunrise(1927)
 
     -1923
@@ -66,7 +63,6 @@
     -1933
     Blue back ground
 ![킹콩](https://user-images.githubusercontent.com/70870803/93669501-aa445280-facf-11ea-9cc8-22939c429276.JPG)
-
 ###### <그림7> Blue background를 사용한 첫 작품. 킹콩(1933)
 
     -1940 년대 
@@ -75,5 +71,4 @@
     -1990
     color difference matte
 ![color difference matte](https://user-images.githubusercontent.com/70870803/93669502-aca6ac80-facf-11ea-81c4-c167a82b1904.JPG)
-
 ###### <그림8> color difference matte

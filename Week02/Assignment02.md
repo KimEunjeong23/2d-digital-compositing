@@ -42,6 +42,6 @@
 
 ### digital compositing의 간단한 역사 
 
-    ## 1898 
+    - 1898 
     멜리에스 Melies 의 Four heads are better than one
     matte와 다중노출을 이용했다.

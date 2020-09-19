@@ -38,22 +38,22 @@
 원래는 만화 애니메이션을 위해 개발되었으나 오늘날 영화 특수 시각효과의 일종으로 다양하게 사용되고 있다. <sup>4)</sup>
 
 
-### digital compositing의 간단한 역사 
+### digital compositing의 간단한 역사 <sup>5)</sup>
 
     - 1898 
     멜리에스 Melies 의 Four heads are better than one
-    matte와 다중노출을 이용함.   
+    matte와 다중노출을 이용함   
   ![멜리에스](https://user-images.githubusercontent.com/70870803/93669493-a4e70800-facf-11ea-83e4-77aa451f8710.JPG)
 ###### <그림4> Melies의 Four heads are better than one (1898)  
   
     -1910년대 
     glass matte painting
-    유리 위에 그림을 그림.
-    Norman Dawn에 의해 개선됨.
+    유리 위에 그림을 그림
+    Norman Dawn에 의해 개선됨
 
     -1918 
     Black back matte
-    Frank Williams에 의해 창안됨.
+    Frank Williams에 의해 창안됨
 ![1918 -1](https://user-images.githubusercontent.com/70870803/93669496-a7e1f880-facf-11ea-8dd0-2b770c19ed7e.JPG)
 ![1918-2](https://user-images.githubusercontent.com/70870803/93669499-a9132580-facf-11ea-9093-b48b25c1d1c7.JPG)
 ###### <그림5><그림6> Black back matte를 사용한 영화, sunrise(1927)

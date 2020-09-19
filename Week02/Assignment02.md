@@ -58,7 +58,21 @@
     Frank Williams에 의해 창안됨.
 ![1918 -1](https://user-images.githubusercontent.com/70870803/93669496-a7e1f880-facf-11ea-8dd0-2b770c19ed7e.JPG)
 ![1918-2](https://user-images.githubusercontent.com/70870803/93669499-a9132580-facf-11ea-9093-b48b25c1d1c7.JPG)
-<그림5><그림6>영화 sunrise(1927)
 
+<그림5><그림6> Black back matte를 사용한 영화, sunrise(1927)
+
+    -1923
+    White background
+    -1933
+    Blue back ground
 ![킹콩](https://user-images.githubusercontent.com/70870803/93669501-aa445280-facf-11ea-9cc8-22939c429276.JPG)
+
+<그림7> Blue background를 사용한 첫 작품. 킹콩(1933)
+
+    -1940 년대 
+    Blue background가 컬러 영화에 사용됨
+    
+    -1990
+    color difference matte
 ![color difference matte](https://user-images.githubusercontent.com/70870803/93669502-aca6ac80-facf-11ea-81c4-c167a82b1904.JPG)
+<그림8> color difference matte

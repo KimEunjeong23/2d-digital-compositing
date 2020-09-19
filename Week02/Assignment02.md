@@ -44,8 +44,14 @@
 
     - 1898 
     멜리에스 Melies 의 Four heads are better than one
-    matte와 다중노출을 이용했다.   
-    ![멜리에스](https://user-images.githubusercontent.com/70870803/93669493-a4e70800-facf-11ea-83e4-77aa451f8710.JPG)
+    matte와 다중노출을 이용함.   
+  ![멜리에스](https://user-images.githubusercontent.com/70870803/93669493-a4e70800-facf-11ea-83e4-77aa451f8710.JPG)
+   <그림4>  
+  
+    -1910년대 
+    glass matte painting
+    유리 위에 그림을 그림.
+    Norman Dawn에 의해 개선됨.
 
 
 ![1918 -1](https://user-images.githubusercontent.com/70870803/93669496-a7e1f880-facf-11ea-8dd0-2b770c19ed7e.JPG)

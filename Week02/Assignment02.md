@@ -16,7 +16,6 @@
 이때 배경이 되는 단색 판을 크로마 백(chroma back)이라고 한다. 크로마 백은 주로 청색을 많이 쓴다. <sup>2)</sup>
 
 ![green screen](https://user-images.githubusercontent.com/70870803/93669262-f1c9df00-facd-11ea-98b2-0c1901221c08.JPG)
-    
 ###### <그림1> green screen의 모습
 
 2. 매트 페인팅 matte painting

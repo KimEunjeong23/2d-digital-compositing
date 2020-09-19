@@ -90,7 +90,11 @@
  
  <sup>5)</sup>
   
-    <인터넷자료> 
-https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/
+    <인터넷자료> https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/
+ 
+ 
+ #### 그림 출처
+ 
+ <그림1>
 
     

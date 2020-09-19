@@ -72,3 +72,9 @@
     color difference matte
 ![color difference matte](https://user-images.githubusercontent.com/70870803/93669502-aca6ac80-facf-11ea-81c4-c167a82b1904.JPG)
 ###### <그림8> color difference matte
+
+#### 출처
+
+<sup>1)</sup>
+
+    

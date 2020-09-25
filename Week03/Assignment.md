@@ -145,9 +145,15 @@ Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요
 
 
 ### 출처
-<sup>1)</sup> <sup>4)</sup> <sup>5)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=3340383&cid=58161&categoryId=58161
+<sup>1)</sup> <sup>4)</sup> <sup>5)</sup> <sup>6)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=3340383&cid=58161&categoryId=58161
 
 <sup>2)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=271068&cid=42641&categoryId=42641
 
 <sup>3)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=2070766&cid=42346&categoryId=42346
+
+<sup>7)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=270072&cid=42641&categoryId=42641
+
+<sup>8)</sup> <인터넷 자료> https://ko.wikipedia.org/wiki/Rec._2020
+
+<sup>9)</sup> <인터넷 자료> https://ko.wikipedia.org/wiki/DCI-P3#cite_note-Technicolor-1 
 

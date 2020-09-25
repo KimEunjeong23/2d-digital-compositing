@@ -49,8 +49,11 @@ The Academy Color Encoding System 에서 제안한 색 공간이다. 색보정 �
 
 ### Color Gamut
 
-전체 태양 빛의 영역인 외곽선에서 각각의 매체가 재현할 수 있는 색 공간 영역이다.
+전체 태양 빛의 영역인 외곽선에서 각각의 매체가 재현할 수 있는 색 공간 영역이다. <sup>7)</sup>
 
 ![image001](https://user-images.githubusercontent.com/70870803/94286859-89c53e00-ff90-11ea-9aef-e7f0f03c4643.jpg)
 
+###### <그림2> Color Gamut comparison
+
+Rec.709는 sRGB와 유사하다.
 

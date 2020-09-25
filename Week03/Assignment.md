@@ -178,12 +178,10 @@ Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요
 
 <그림2> image courtesy of Haarm-Pieter Duiker and Thomas Mansencal https://docs.arnoldrenderer.com/display/A5AFMUG/ACES+Workflow 
 
-<그림3> 
+<그림3> https://www.japanistry.com/understanding-gamma-in-photography/
 
-<그림4>
+<그림4> SONY https://pro.sony/ko_KR/technology/professional-video-lut-look-up-table
 
-<그림5>
+<그림5> https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
 
-<그림6>
-
-<그림7>
+<그림6> <그림7> https://tiberius-viris.artstation.com/blog/3ZBO/color-space-management-srgb-linear-and-log

@@ -132,8 +132,9 @@ The biggest reason to use the Log color curve is how it retains the most dynamic
 ###### <그림5> Linear curve, Log curve
 
 ![sRGB---](https://user-images.githubusercontent.com/70870803/94302763-b46ec100-ffa7-11ea-942a-25d288905f04.jpg)
+###### <그림6> sRGB curve
 
 ![Log-Curve ---](https://user-images.githubusercontent.com/70870803/94302771-b769b180-ffa7-11ea-8b4f-9886f223f063.jpg)
-
+###### <그림7> Log curve
 
 

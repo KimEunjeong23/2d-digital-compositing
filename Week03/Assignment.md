@@ -116,3 +116,14 @@ Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간�
 ###### <그림4> 3D LUT
 
 ## Logspace / sRGB
+
+#### Log color curve
+
+현재 거의 모든 카메라 제조 업체는 자체 로그 곡선을 제조한다. 
+
+S-Log 2&3 (Sony), LogC (Arri), Canon Log, V-Log (panasonic), Red Logfilm, Blackmagic Log, etc. 
+
+#### WHY WE USE?
+
+The biggest reason to use the Log color curve is how it retains the most dynamic range of information from the camera sensor (or film negative). 
+

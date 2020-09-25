@@ -123,7 +123,7 @@ Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간�
 
 S-Log 2&3 (Sony), LogC (Arri), Canon Log, V-Log (panasonic), Red Logfilm, Blackmagic Log, etc. 
 
-#### WHY WE USE? 
+#### WHY we use? 
 
 The biggest reason to use the Log color curve is how it retains the most dynamic range of information from the camera sensor (or film negative).  <sup>16)</sup>
 
@@ -137,7 +137,11 @@ The biggest reason to use the Log color curve is how it retains the most dynamic
 ![Log-Curve ---](https://user-images.githubusercontent.com/70870803/94302771-b769b180-ffa7-11ea-8b4f-9886f223f063.jpg)
 ###### <그림7> Log curve
 
-###### 포토샵 8bit-16bit
+#### When we use?
+대부분의 photoshop는 8bit 또는 16bit 모드에서만 제대로 작동하므로 ci32 bit 형식으로 사용할 수 있는 정보의 전부 또는 대부분 유지하면서 해당 모드에서 페인팅할 수 있는 방법을 찾아야한다. 
+그것이 Log이다.
+
+
 
 sRGB 이미지를 변환하는 과정에서 손실이 일어날 수도 있다.
 

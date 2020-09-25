@@ -46,3 +46,8 @@ HP와 마이크로소프트(Microsoft)에서 제안한 컴퓨터를 위한 RGB �
 - ACES Colorspace
 
 The Academy Color Encoding System 에서 제안한 색 공간이다. 색보정 단계마다 혼란을 방지하고 다양한 컬러를 표용하기 위해 개발되었다.
+
+### Color Gamut
+
+
+

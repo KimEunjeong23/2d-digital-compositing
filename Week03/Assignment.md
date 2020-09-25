@@ -103,9 +103,9 @@ Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간�
 ## What is LUT?
  룩업 테이블(lookup table)은 컴퓨터 과학에서 일반적으로 배열이나 연관 배열로 된 데이터 구조로, 런타임 계산을 더 단순한 배열 색인화 과정으로 대체하는 데 자주 쓰인다. <sup>13)</sup>
  
- LUT를 사용하는 주된 목적은 Log를 Rec.709로서의 변횐속도를 단순화하기 위해서이다. 
+ LUT를 사용하는 주된 목적은 Log를 Rec.709로서의 변환속도를 단순화하기 위해서이다. 
  
  1D LUT는 R,G,B 커브값 각각의 출력값과 매치한다.
  
- 3D LUT는 3차원 cube 공간의 좌표값으로 HUE, Saturation 까지 표현이 가능하다. 
+ 3D LUT는 3차원 cube 공간의 좌표값으로 HUE, Saturation 까지 표현이 가능하다.  <sup>14)</sup>
 

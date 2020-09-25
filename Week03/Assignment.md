@@ -17,4 +17,4 @@ Color Space 색공간
 
 ![Lab](https://user-images.githubusercontent.com/70870803/94282167-77480600-ff8a-11ea-80a2-335958d600d2.jpg)
 
-<그림1> Lab 색공간
+<그림1> CIE Lab 색공간

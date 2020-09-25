@@ -172,3 +172,18 @@ Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요
 <sup>16)</sup> <인터넷 자료> https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
 
 <sup>17)</sup> <인터넷 자료> https://tiberius-viris.artstation.com/blog/3ZBO/color-space-management-srgb-linear-and-log
+
+### 이미지 출처
+<그림1> https://terms.naver.com/entry.nhn?docId=271068&cid=42641&categoryId=42641
+
+<그림2> image courtesy of Haarm-Pieter Duiker and Thomas Mansencal https://docs.arnoldrenderer.com/display/A5AFMUG/ACES+Workflow 
+
+<그림3> 
+
+<그림4>
+
+<그림5>
+
+<그림6>
+
+<그림7>

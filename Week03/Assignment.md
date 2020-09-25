@@ -38,9 +38,10 @@ YUV는 영상신호를 휘도(luminance)와 색차 신호(chrominance)로 구성
 YCbCr과 YPbPr은 근본적으로 같은 것으로 YCbCr은 디지털에서 YPbPr은 아날로그 시스템에서 사용하는 방식이다. 
 
 
-- sRGB(standard RGB) <sup>6)</sup>
+- sRGB(standard RGB) 
 
-HP와 마이크로소프트(Microsoft)에서 제안한 컴퓨터를 위한 RGB 색공간으로 HDTV 시스템에서 사용하는 Rec.709와 동일한 개머트를 갖는 색공간이다.
+HP와 마이크로소프트(Microsoft)에서 제안한 컴퓨터를 위한 RGB 색공간으로 HDTV 시스템에서 사용하는 Rec.709와 동일한 개머트를 갖는 색공간이다.<sup>6)</sup>
+색상을 표현할 수 있는 영역이 좁다는 단점이 있다.
 
 - ACES Colorspace
 

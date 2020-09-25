@@ -99,3 +99,6 @@ Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간�
 
 특정 색영역을 잘라내기 위해서 사용. 영역은 보통 사용자가 설정한다.  <sup>12)</sup>
 
+
+## What is LUT?
+

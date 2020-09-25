@@ -25,6 +25,7 @@ Color Space 색공간
 ###### <그림1> CIE Lab 색공간
 
  - YUV 
+ 
 컬러 영상을 구현하는 방법으로 밝기는 Y로 청색의 색차는 U로 적색의 색차는 V로 색을 표현하는 방식.
 YUV는 영상신호를 휘도(luminance)와 색차 신호(chrominance)로 구성하는 컴포넌트(component) 신호이다. <sup>3)</sup>
 

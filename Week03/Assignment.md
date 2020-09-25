@@ -71,3 +71,16 @@ Linear은 실제의 색을 표현한다. 왜곡되지 않은 선.
 ![Gamma-Signal-v01](https://user-images.githubusercontent.com/70870803/94294389-b9794380-ff9a-11ea-82cc-25c57e2b089c.jpg)
 ###### <그림3> Gamma 
 Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간으로 이끈 후, 다시 어둡게 연산하여 Linear한 상태를 만든다.
+
+## Color Correction
+비디오 필름이나 디지털 이미지의 색을 조정하는데 쓰는 일련의 기술을 가리키는 국제적인 용어이다. <sup>11)</sup>
+
+- default
+아무 색상이 변하지 않은 상태.
+
+- offset
+모든 이미지의 밝기를 올리거나 낮춤.
+
+- Gain
+로우레벨을 고정시킨 상태에서 하이라이트만 조정할 때 사용.
+

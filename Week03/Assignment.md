@@ -68,4 +68,7 @@ Gamma는 실제 색이 아닌 사람이 자연스럽게 느끼는 색을 만들�
 
 Linear은 실제의 색을 표현한다. 왜곡되지 않은 선. <sup>10)</sup>
 
+![CRT-Curve-v01](https://user-images.githubusercontent.com/70870803/94294393-bb430700-ff9a-11ea-90a7-dfe9d73cbfd8.jpg)
+
+![Gamma-Signal-v01](https://user-images.githubusercontent.com/70870803/94294389-b9794380-ff9a-11ea-82cc-25c57e2b089c.jpg)
 

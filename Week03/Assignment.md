@@ -111,3 +111,6 @@ Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간�
  
  3D LUT는 3차원 cube 공간의 좌표값으로 HUE, Saturation 까지 표현이 가능하다. <sup>15)</sup>
 
+![3D LUT](https://user-images.githubusercontent.com/70870803/94299603-d7e33d00-ffa2-11ea-8cd0-b993075e4b6d.JPG)
+
+###### <그림4> 3D LUT

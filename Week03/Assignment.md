@@ -62,13 +62,12 @@ The Academy Color Encoding System 에서 제안한 색 공간이다. 색보정 �
 - DCI-P3 미국 영화 산업의 디지털 영화 프로젝션을 위한 일반 RGB 색 공간이다. <sup>9)</sup>
 
 ## Gamma / Linear workflow
-### What is Gamma/ Linear?
+### What is Gamma/ Linear?  <sup>10)</sup>
 
 Gamma는 실제 색이 아닌 사람이 자연스럽게 느끼는 색을 만들어낸다. 그로인해 화질이 향상되는 효과를 주기 위함이다.
 
-Linear은 실제의 색을 표현한다. 왜곡되지 않은 선. <sup>10)</sup>
-
-![CRT-Curve-v01](https://user-images.githubusercontent.com/70870803/94294393-bb430700-ff9a-11ea-90a7-dfe9d73cbfd8.jpg)
+Linear은 실제의 색을 표현한다. 왜곡되지 않은 선.
 
 ![Gamma-Signal-v01](https://user-images.githubusercontent.com/70870803/94294389-b9794380-ff9a-11ea-82cc-25c57e2b089c.jpg)
-
+###### <그림3> Gamma 
+Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간으로 이끈 후, 다시 어둡게 연산하여 Linear한 상태를 만든다.

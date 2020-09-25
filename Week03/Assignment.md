@@ -142,8 +142,7 @@ The biggest reason to use the Log color curve is how it retains the most dynamic
 그것이 Log이다.
 
 
-
-- sRGB 이미지를 변환하는 과정에서 손실이 일어날 수도 있다. -
+sRGB 이미지를 변환하는 과정에서 손실이 일어날 수도 있다.
 
 Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요한 공간을 최소화한다. <sup>17)</sup>
 

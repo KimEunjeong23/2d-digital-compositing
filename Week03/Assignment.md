@@ -123,7 +123,7 @@ Linear한 상태를 gamma correction을 통해 밝게 연산하여 gamma 공간�
 
 S-Log 2&3 (Sony), LogC (Arri), Canon Log, V-Log (panasonic), Red Logfilm, Blackmagic Log, etc. 
 
-#### WHY WE USE?
+#### WHY WE USE? 
 
 The biggest reason to use the Log color curve is how it retains the most dynamic range of information from the camera sensor (or film negative).  <sup>16)</sup>
 
@@ -137,4 +137,17 @@ The biggest reason to use the Log color curve is how it retains the most dynamic
 ![Log-Curve ---](https://user-images.githubusercontent.com/70870803/94302771-b769b180-ffa7-11ea-8b4f-9886f223f063.jpg)
 ###### <그림7> Log curve
 
+###### 포토샵 8bit-16bit
+
+sRGB 이미지를 변환하는 과정에서 손실이 일어날 수도 있다.
+
+Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요한 공간을 최소화한다.
+
+
+### 출처
+<sup>1)</sup> <sup>4)</sup> <sup>5)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=3340383&cid=58161&categoryId=58161
+
+<sup>2)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=271068&cid=42641&categoryId=42641
+
+<sup>3)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=2070766&cid=42346&categoryId=42346
 

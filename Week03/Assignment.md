@@ -128,5 +128,12 @@ S-Log 2&3 (Sony), LogC (Arri), Canon Log, V-Log (panasonic), Red Logfilm, Blackm
 The biggest reason to use the Log color curve is how it retains the most dynamic range of information from the camera sensor (or film negative).  <sup>16)</sup>
 
 #### Comparison
+![Log-Curve](https://user-images.githubusercontent.com/70870803/94302753-afaa0d00-ffa7-11ea-8fa1-25c771858ac7.jpg)
+###### <그림5> Linear curve, Log curve
+
+![sRGB---](https://user-images.githubusercontent.com/70870803/94302763-b46ec100-ffa7-11ea-942a-25d288905f04.jpg)
+
+![Log-Curve ---](https://user-images.githubusercontent.com/70870803/94302771-b769b180-ffa7-11ea-8b4f-9886f223f063.jpg)
+
 
 

@@ -55,11 +55,11 @@ The Academy Color Encoding System 에서 제안한 색 공간이다. 색보정 �
 
 ###### <그림2> Color Gamut comparison
 
-Rec.709는 sRGB와 유사하다.
+- Rec.709는 sRGB와 유사하다.
 
-Rec.2020는 SDR과 넓은 색역(WCG), 해상도, 프레임레이트, 색깊이, 컬러, 휘도-색도 컬러표현, 크로마 서브샘플링과 감마보정 등을 포함한 초고선명 텔레비전(UHD TV)의 여러가지 측면을 정의한다.<sup>8)</sup>
+- Rec.2020는 SDR과 넓은 색역(WCG), 해상도, 프레임레이트, 색깊이, 컬러, 휘도-색도 컬러표현, 크로마 서브샘플링과 감마보정 등을 포함한 초고선명 텔레비전(UHD TV)의 여러가지 측면을 정의한다.<sup>8)</sup>
 
-DCI-P3 미국 영화 산업의 디지털 영화 프로젝션을 위한 일반 RGB 색 공간이다. <sup>9)</sup>
+- DCI-P3 미국 영화 산업의 디지털 영화 프로젝션을 위한 일반 RGB 색 공간이다. <sup>9)</sup>
 
 ## Gamma / Linear workflow
 ### What is Gamma?

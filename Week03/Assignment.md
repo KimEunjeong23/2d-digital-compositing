@@ -141,7 +141,7 @@ The biggest reason to use the Log color curve is how it retains the most dynamic
 
 sRGB 이미지를 변환하는 과정에서 손실이 일어날 수도 있다.
 
-Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요한 공간을 최소화한다.
+Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요한 공간을 최소화한다. <sup>17)</sup>
 
 
 ### 출처
@@ -157,3 +157,18 @@ Log는 흰색 및 검은색 영역의 값을 압축하여 저장하는데 필요
 
 <sup>9)</sup> <인터넷 자료> https://ko.wikipedia.org/wiki/DCI-P3#cite_note-Technicolor-1 
 
+<sup>10)</sup> <인터넷 자료> https://blog.naver.com/cdw0424/221827528747
+
+<sup>11)</sup> <인터넷 자료> https://terms.naver.com/entry.nhn?docId=1649906&cid=42627&categoryId=42627
+
+<sup>12)</sup> <인터넷 자료> https://digitalidea.gitbook.io/nuke/basic/colortheory/colorcorrection
+
+<sup>13)</sup> <인터넷 자료> https://ko.wikipedia.org/wiki/%EC%88%9C%EB%9E%8C%ED%91%9C
+
+<sup>14)</sup> <인터넷 자료> https://pro.sony/ko_KR/technology/professional-video-lut-look-up-table
+
+<sup>15)</sup> <인터넷 자료> https://blog.naver.com/laizenti/220051962705
+
+<sup>16)</sup> <인터넷 자료> https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
+
+<sup>17)</sup> <인터넷 자료> https://tiberius-viris.artstation.com/blog/3ZBO/color-space-management-srgb-linear-and-log

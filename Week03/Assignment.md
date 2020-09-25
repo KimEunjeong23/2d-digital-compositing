@@ -57,5 +57,5 @@ The Academy Color Encoding System 에서 제안한 색 공간이다. 색보정 �
 
 Rec.709는 sRGB와 유사하다.
 
-## Gamma
-
+## Gamma / Linear workflow
+### What is Gamma?

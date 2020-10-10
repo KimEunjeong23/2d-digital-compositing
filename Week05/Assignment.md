@@ -8,15 +8,15 @@
 5) Lines and Shapes
 Square, circle, triangle...
 
-##Patterns
+## Patterns
 반복되는 패턴들 속, 다른 모양의 움직이는 피사체에게 집중되는 효과가 있음.
 
-##Depth
+## Depth
 1) 전경, 중경, 배경
 2) Overlap
 3) Aerial Diffusion
 4) Textural Diffusion
 5) Size Difference
 
-##Color
+## Color
 영화 속 색

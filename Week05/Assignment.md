@@ -13,7 +13,8 @@
 3) Framing
 4) Linear motif
 5) Lines and Shapes
-Square, circle, triangle...
+
+   Square, circle, triangle...
 
 ## Patterns
 반복되는 패턴들 속, 다른 모양의 움직이는 피사체에게 집중되는 효과가 있음.

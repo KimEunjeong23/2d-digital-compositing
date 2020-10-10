@@ -19,4 +19,4 @@ Square, circle, triangle...
 5) Size Difference
 
 ## Color
-영화 속 색
+영화 속 색들을 통해 감정, 느낌 등을 효과적으로 표현할 수 있음.

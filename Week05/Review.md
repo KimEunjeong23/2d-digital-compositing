@@ -5,7 +5,7 @@
 
 ![문라이즈 킹덤 2012](https://user-images.githubusercontent.com/70870803/95657767-32f36300-0b51-11eb-8060-e1501d56896b.JPG)
 
-<그림1> 영화 '문라이즈 킹덤' 속 장면 
+###### <그림1> 영화 '문라이즈 킹덤' 속 장면 
 
 2) Rule of Thirds
 

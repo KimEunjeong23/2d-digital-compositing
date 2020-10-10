@@ -26,6 +26,11 @@ https://mediamakeracademy.com/rule-of-thirds-in-film/
 
 ## Patterns
 반복되는 패턴들 속, 다른 모양의 움직이는 피사체에게 집중되는 효과가 있음.
+![patterns](https://user-images.githubusercontent.com/70870803/95658153-499ab980-0b53-11eb-9257-b9bf78cf6079.jpg)
+
+###### <그림3> 영화 '기생충' 속 장면
+
+사각형 패턴의 화장실 벽. 두 인물의 움직임이 돋보임.
 
 ## Depth
 1) 전경, 중경, 배경

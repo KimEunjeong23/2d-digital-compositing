@@ -32,6 +32,9 @@ https://mediamakeracademy.com/rule-of-thirds-in-film/
 
 사각형 패턴의 화장실 벽. 두 인물의 움직임이 돋보임.
 
+![패턴](https://user-images.githubusercontent.com/70870803/95676193-478a3680-0bf7-11eb-88f7-96b0d6e65b3f.JPG)
+###### <그림4> 영화 '샤이닝' 속 장면
+
 ## Depth
 1) 전경, 중경, 배경
 2) Overlap
@@ -41,6 +44,11 @@ https://mediamakeracademy.com/rule-of-thirds-in-film/
 
 ## Color
 영화 속 색들을 통해 감정, 느낌 등을 효과적으로 표현할 수 있음.
+
+![color](https://user-images.githubusercontent.com/70870803/95676194-49ec9080-0bf7-11eb-8619-9f7f8eca1505.JPG)
+###### <그림5> 영화 '레버넌트' 속 장면 
+https://www.demilked.com/iconic-movie-color-palette-cinemapalettes/
+
 
 ### 출처 
 [네이버 지식백과] 영화 촬영과 조명 (영화의이해, 2014. 2. 28., 민경원)

@@ -49,6 +49,7 @@ https://mediamakeracademy.com/rule-of-thirds-in-film/
 ###### <그림5> 영화 '레버넌트' 속 장면 
 https://www.demilked.com/iconic-movie-color-palette-cinemapalettes/
 
+차가움, 냉정한 감정들이 잘 표현됨.
 
 ### 출처 
 [네이버 지식백과] 영화 촬영과 조명 (영화의이해, 2014. 2. 28., 민경원)

@@ -55,4 +55,4 @@ https://www.demilked.com/iconic-movie-color-palette-cinemapalettes/
 [네이버 지식백과] 영화 촬영과 조명 (영화의이해, 2014. 2. 28., 민경원)
 
 
-* 더 자세한 리서치 과제는 pdf로 제출함.
+### 더 자세한 리서치 과제는 pdf로 제출함.

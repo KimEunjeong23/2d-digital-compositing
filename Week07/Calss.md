@@ -14,9 +14,32 @@ roto 따고 싶은 피사체의 외곽을 따라 따기.
 
 <img width="1397" alt="스크린샷 2020-11-03 오후 10 42 32" src="https://user-images.githubusercontent.com/70870803/97992710-69599080-1e26-11eb-8dd3-331771cc3bd0.png">
 
-이런식으로 따면 된다.
+이런식으로? 따면 된다. (더 깔끔하고 섬세하게..)
+
+확대해서 섬세하게.
 
 머리, 몸통, 팔로 나누어 이름을 저장하면 더욱 편하다.
+
+Merge 사용하여 배경과 합치기> A over B
+
+## Color Match
+
+#### 컬러 매치를 위한 순서
+
+1. contrast
+
+-Grade 노드 
+1.1 Black -- offset
+
+1.2 White -- Gain
+
+1.3 Midtone -- Gamma
+
+2. Saturation
+- Saturation 노드
+
+3. Color temperature (Kelvin)
+- Grade 노드
 
 
 

@@ -2,6 +2,10 @@
 ## What is NUKE
 The Foundry의 노드 기반 합성 소프트웨어이다.
 
+<img width="782" alt="스크린샷 2020-11-03 오후 10 14 25" src="https://user-images.githubusercontent.com/70870803/97989789-6066c000-1e22-11eb-86b7-c60f5cba5c68.png">
+이 이미지가 노드들이다.
+
+
 ### NODE?
 노드 추가 할 때, Tab 키 누르기
 
@@ -16,7 +20,8 @@ The Foundry의 노드 기반 합성 소프트웨어이다.
 - Grade (단축키 G)
 - Color correct (단축키 C)
 - 단축키 command+z (mac) 이전으로
-- Transform (단축키 T )
+- Transform (단축키 T)
+
 (생각나는대로 추가)
 
 #### Cleaning in PHOTOSHOP
@@ -29,8 +34,6 @@ ctrl or command를 누른채 지우기.
 스탬프처럼 생긴 툴.
 
 #### Cleaning in NUKE
-<img width="782" alt="스크린샷 2020-11-03 오후 10 14 25" src="https://user-images.githubusercontent.com/70870803/97989789-6066c000-1e22-11eb-86b7-c60f5cba5c68.png">
-이 이미지가 노드들이다.
 
 - Roto painting node 사용
 

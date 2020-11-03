@@ -28,7 +28,8 @@ Merge 사용하여 배경과 합치기> A over B
 
 1. contrast
 
--Grade 노드 
+- Grade 노드 
+
 1.1 Black -- offset
 
 1.2 White -- Gain

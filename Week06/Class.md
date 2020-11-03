@@ -26,5 +26,7 @@ ctrl or command를 누른채 지우기.
 #### Cleaning in NUKE
 <img width="782" alt="스크린샷 2020-11-03 오후 10 14 25" src="https://user-images.githubusercontent.com/70870803/97989789-6066c000-1e22-11eb-86b7-c60f5cba5c68.png">
 이 이미지가 노드들이다.
-- Roto painting node
+
+- Roto painting node 사용
+
 포토샵에서의 사용법과 유사.

@@ -14,7 +14,7 @@ Keyer에 대한 자세한 사용방법: http://learn.foundry.com/nuke/12.2/conte
 3. Difference
 4. Keylight
 
-- Screen color 설정 (control키 누른채로 그린스크린 한 부분)or (command키 누른채로 그린스크린 한 부분 선택)
+- Screen color 설정> 검정 네모 박스 누르고, (control키 누른채로 그린스크린 한 부분)or (command키 누른채로 그린스크린 한 부분 선택)
 - Screen color matte에서 Clip balck 조절하기 
 
 

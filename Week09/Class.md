@@ -3,7 +3,7 @@
 ### NODE
 
 
-- 자주 사용하는 노드
+#### 자주 사용하는 노드
 1. Keyer
 
 A,B,C,D 조절
@@ -18,7 +18,7 @@ Keyer에 대한 자세한 사용방법: http://learn.foundry.com/nuke/12.2/conte
 - Screen color matte에서 Clip balck 조절하기 
 
 
-5. Ultimatte
-6. Primatte
+5. Ultimatte (NUKE non-commercial에서 사용 불가 ㅜㅜ)
+6. Primatte  (NUKE non-commercial에서 사용 불가)
 7. IBKGizmov3
 8. IBKColourv3

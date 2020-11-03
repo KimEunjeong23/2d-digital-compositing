@@ -22,3 +22,10 @@ Keyer에 대한 자세한 사용방법: http://learn.foundry.com/nuke/12.2/conte
 6. Primatte  (NUKE non-commercial에서 사용 불가)
 7. IBKGizmov3
 8. IBKColourv3
+
+
+#### 그린스크린에 다른 배경 합성
+
+이미지 or 영상과 Merge
+
+A(greenscreen footage) over B(background)

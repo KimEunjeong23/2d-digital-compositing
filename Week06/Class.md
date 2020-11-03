@@ -14,9 +14,9 @@ The Foundry의 노드 기반 합성 소프트웨어이다.
 - Roto paint (단축키 P)
 - 단축키 D - X
 - Grade (단축키 G)
-- Color correction (단축키 C)
+- Color correct (단축키 C)
 - 단축키 command+z (mac) 이전으로
-
+- Transform (단축키 T )
 (생각나는대로 추가)
 
 #### Cleaning in PHOTOSHOP

@@ -23,7 +23,7 @@
 ### Merge operation
 atop Ab+B(1-a)
 
-- 
--
--
+.
+.
+.
 multiply AB

@@ -10,7 +10,8 @@ The Foundry의 노드 기반 합성 소프트웨어이다.
 - Reformat 
 - Crop 이미지 자르고 싶을 때.
 - Write 최종적으로, export 할 때. (단축키 W)
-- Roto 로토 딸 때.
+- Roto 로토 딸 때. (단축키 O)
+- Roto paint (단축키 P)
 - 단축키 D - X
 
 (생각나는대로 추가)

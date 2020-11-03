@@ -5,7 +5,7 @@ The Foundry의 노드 기반 합성 소프트웨어이다.
 ### NODE?
 노드 추가 할 때, Tab 키 누르기
 
-!자주 사용하는 노드!
+!자주 사용하는 노드 & 단축키!
 - Merge 이미지 두개 합치고 싶을 때. (단축키 M)
 - Reformat 
 - Crop 이미지 자르고 싶을 때.
@@ -13,6 +13,9 @@ The Foundry의 노드 기반 합성 소프트웨어이다.
 - Roto 로토 딸 때. (단축키 O)
 - Roto paint (단축키 P)
 - 단축키 D - X
+- Grade (단축키 G)
+- Color correction (단축키 C)
+- 단축키 command+z (mac) 이전으로
 
 (생각나는대로 추가)
 

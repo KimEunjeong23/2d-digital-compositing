@@ -42,6 +42,7 @@ Merge 사용하여 배경과 합치기> A over B
 3. Color temperature (Kelvin)
 - Grade 노드
 
+<img width="87" alt="스크린샷 2020-11-03 오후 10 14 25" src="https://user-images.githubusercontent.com/70870803/97993614-a7a37f80-1e27-11eb-9eb3-5c3514d6447b.png">
 
 
 

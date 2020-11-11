@@ -12,6 +12,7 @@
 ### Despill
 #### Core despill
 - 피사체에 반사된 초록색 부분으 지우는 방법
+
 keylight node
 
 Hue correct- 영역 선택 후, green값 낮추기

@@ -18,4 +18,5 @@ keylight node
 Hue correct- 영역 선택 후, green값 낮추기
 <img width="586" alt="스크린샷 2020-11-12 오전 12 17 38" src="https://user-images.githubusercontent.com/70870803/98832366-12843480-2480-11eb-9dcd-4550d1d3d1a4.png">
 #### Edge despill
-
+#### 다양한 gizmos를 얻을 수 있는 사이트
+https://www.nukepedia.com

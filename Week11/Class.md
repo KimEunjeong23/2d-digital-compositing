@@ -27,3 +27,11 @@ Merge node
 1. 4개의 포인트를 지정해서 트랙킹 설정하기
 2. Tracker node 아래에 (Export>ConerPin2D)생성
 3. 교체할 footage에 ConerPin2D node 생성
+4. ~ > Link to . 사각형 모서리 부분 맞추기.
+
+## Planar tracker
+roto를 활용
+
+- 간판 같은거 갈아끼우기 좋음
+
+Planar tracker node생성 > roto > perspective 맞추기 > roto 안의 tracking 

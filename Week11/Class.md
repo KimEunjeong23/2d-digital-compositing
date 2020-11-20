@@ -30,10 +30,21 @@ Merge node
 4. ~ > Link to . 사각형 모서리 부분 맞추기.
 
 ## Planar tracker
-roto를 활용
+- roto를 활용
 
 - 간판 같은거 갈아끼우기 좋음
 
 Planar tracker node생성 > roto > perspective 맞추기 > roto 안의 tracking 에서 ConerPin2D(absolute) create > From에서 set to input 눌러 사이즈 맞추기.
+
+conerPin2D는 footage와 연결
+
+merge node로 마무리
+
+## Color Match
+본래의 화면과 새로운 이미지를 자연스럽게 합성하기 위해서는 컬러매치가 필요하다.
+
+- Grade node 를 사용해 RGB를 맞춘다.
+- Edge blur node 를 사용해 모서리에 블러를 넣어 자연스러운 효과.
+- Grain node 를 사용해 노이즈를 삽입해 주변과 맞춘다.
 
 

@@ -34,4 +34,6 @@ roto를 활용
 
 - 간판 같은거 갈아끼우기 좋음
 
-Planar tracker node생성 > roto > perspective 맞추기 > roto 안의 tracking 
+Planar tracker node생성 > roto > perspective 맞추기 > roto 안의 tracking 에서 ConerPin2D(absolute) create > From에서 set to input 눌러 사이즈 맞추기.
+
+

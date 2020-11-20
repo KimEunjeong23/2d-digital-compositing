@@ -1,7 +1,8 @@
 # Tracking in NUKE
 ## 1point tracker
 - tracker node 사용
-트래킹 할 영역을 선택한 후, 위의 재생 버튼을 누르면 자동으로 트래킹이 됨. 
+빨간 버튼 > 트래킹 할 영역을 선택한 후, 위의 재생 버튼을 누르면 자동으로 트래킹이 됨. 
+<img width="774" alt="스크린샷 2020-11-20 오후 1 04 39" src="https://user-images.githubusercontent.com/70870803/99759568-f7778b80-2b35-11eb-9e31-a1f2c04a0feb.png">
 
 중간에 튕긴 부분 직접 다시 설정.
 
@@ -18,6 +19,8 @@ add track하여 두개의 포인트 생성
 2개 트랙 T,R 체크.> 2개 동시 선택 후, tracker node 안에 있는 export 부분에서 Transform(Match-move)create.
 
 Merge node
+
+<img width="585" alt="스크린샷 2020-11-20 오후 1 17 25" src="https://user-images.githubusercontent.com/70870803/99759581-04947a80-2b36-11eb-8a72-374573321bbe.png">
 
 ## 3point tracker
 - 3개의 포인트
@@ -41,6 +44,9 @@ Planar tracker node생성 > roto > perspective 맞추기 > roto 안의 tracking 
 conerPin2D는 footage와 연결
 
 merge node로 마무리
+
+<img width="377" alt="스크린샷 2020-11-20 오후 1 34 14" src="https://user-images.githubusercontent.com/70870803/99759587-09f1c500-2b36-11eb-8084-c54737636eef.png">
+노드 예시
 
 ## Color Match
 본래의 화면과 새로운 이미지를 자연스럽게 합성하기 위해서는 컬러매치가 필요하다.

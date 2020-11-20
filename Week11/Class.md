@@ -5,6 +5,12 @@
 
 tracker node 안에 있는 export 부분에서 Transform(Match-move)create.
 
+Merge node 사용하여 완성.
 
+## 2point tracker
+- 앞선 1point와 유사
+- 상하좌우로 움직임이 많은 영상에.
 
+add track하여 두개의 포인트 생성
 
+2개 트랙 동시 선택 후, tracker node 안에 있는 export 부분에서 Transform(Match-move)create.

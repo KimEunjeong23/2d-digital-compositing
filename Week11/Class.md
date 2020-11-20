@@ -13,4 +13,17 @@ Merge node 사용하여 완성.
 
 add track하여 두개의 포인트 생성
 
-2개 트랙 동시 선택 후, tracker node 안에 있는 export 부분에서 Transform(Match-move)create.
+2개 트랙 T,R 체크.> 2개 동시 선택 후, tracker node 안에 있는 export 부분에서 Transform(Match-move)create.
+
+Merge node
+
+## 3point tracker
+- 3개의 포인트
+
+## 4point tracker
+- 4개의 포인트
+- 컴퓨터 스크린 같은거에 활용하기 좋음.
+
+1. 4개의 포인트를 지정해서 트랙킹 설정하기
+2. Tracker node 아래에 (Export>ConerPin2D)생성
+3. 교체할 footage에 ConerPin2D node 생성
